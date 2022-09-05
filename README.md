@@ -2,7 +2,7 @@
 
 I'm Liang Fei (Lyndon), a fullstack developer.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liangfeidotme)](https://github.com/anuraghazra/github-readme-stats&hide=javascript,html)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liangfeidotme&layout=compact&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Lyndon's GitHub stats](https://github-readme-stats.vercel.app/api?username=liangfeidotme)](https://github.com/anuraghazra/github-readme-stats)
 
