@@ -2,6 +2,7 @@
 
 I'm Lyndon, a fullstack developer.
 
-- Creating apps with Flutter and Django
-- Writing blogs about business
-- Reading books about the history of Japan
+I'm currently working on 
+- creating apps with Flutter and Django
+- writing blogs about business
+- reading books about the history of Japan
